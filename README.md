@@ -1,0 +1,2 @@
+# NTCC
+Skin Disease Detection
